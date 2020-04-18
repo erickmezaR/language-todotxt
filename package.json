@@ -1,9 +1,9 @@
 {
-  "name": "language-todotxt",
-  "version": "1.1.5",
-  "main": "lib/language-todotxt",
-  "description": "Syntax Highlighting for todo.txt",
-  "repository": "https://github.com/todotxt/language-todotxt",
+  "name": "eerimez_language-todotxt",
+  "version": "0.1",
+  "main": "lib/eerimez_language-todotxt",
+  "description": "Syntax Highlighting for todo.txt and customizations for eerimez",
+  "repository": "https://github.com/erickmezaR/language-todotxt",
   "license": "BSD",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
